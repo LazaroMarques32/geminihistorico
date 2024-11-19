@@ -1,0 +1,354 @@
+[
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "olá"
+               }
+          ]
+     },
+     {
+          "parts": [
+               {
+                    "text": "Olá! Como posso ajudar?\n"
+               }
+          ],
+          "role": "model"
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "olá"
+               }
+          ]
+     },
+     {
+          "role": "model",
+          "parts": [
+               {
+                    "text": "Olá! Como posso ajudar?\n"
+               }
+          ]
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "você sabe me dizer quem veio antes: o ovo ou a galinha?"
+               }
+          ]
+     },
+     {
+          "parts": [
+               {
+                    "text": "Do ponto de vista biológico, a **galinha veio antes do ovo de galinha**.\n\nA questão é um paradoxo, mas a resposta se encontra na evolução.  Ovos existiram muito antes das galinhas.  Aves ancestrais botavam ovos muito antes de a espécie *Gallus gallus domesticus* (a galinha doméstica) evoluir.  Então, um ovo de uma ave ancestral botou um pinto que, através de mutações genéticas ao longo de gerações, eventualmente evoluiu para a galinha que conhecemos hoje.  Esse ovo, portanto, não era um ovo de galinha, mas um ovo de uma ave ancestral que eventualmente daria origem à galinha.\n"
+               }
+          ],
+          "role": "model"
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "você sabe me dizer quem veio antes: o ovo ou a galinha?"
+               }
+          ]
+     },
+     {
+          "role": "model",
+          "parts": [
+               {
+                    "text": "Do ponto de vista biológico, a **galinha veio antes do ovo de galinha**.\n\nA questão é um paradoxo, mas a resposta se encontra na evolução.  Ovos existiram muito antes das galinhas.  Aves ancestrais botavam ovos muito antes de a espécie *Gallus gallus domesticus* (a galinha doméstica) evoluir.  Então, um ovo de uma ave ancestral botou um pinto que, através de mutações genéticas ao longo de gerações, eventualmente evoluiu para a galinha que conhecemos hoje.  Esse ovo, portanto, não era um ovo de galinha, mas um ovo de uma ave ancestral que eventualmente daria origem à galinha.\n"
+               }
+          ]
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "o cantor michael jackson está vivo?"
+               }
+          ]
+     },
+     {
+          "parts": [
+               {
+                    "text": "Não, Michael Jackson faleceu em 25 de junho de 2009.\n"
+               }
+          ],
+          "role": "model"
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "o cantor michael jackson está vivo?"
+               }
+          ]
+     },
+     {
+          "role": "model",
+          "parts": [
+               {
+                    "text": "Não, Michael Jackson faleceu em 25 de junho de 2009.\n"
+               }
+          ]
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "você sabe me dizer qual foi a primeira pergunta que eu te  fiz nessa conversa?"
+               }
+          ]
+     },
+     {
+          "parts": [
+               {
+                    "text": "Sua primeira pergunta foi \"olá\".\n"
+               }
+          ],
+          "role": "model"
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "você sabe me dizer qual foi a primeira pergunta que eu te  fiz nessa conversa?"
+               }
+          ]
+     },
+     {
+          "role": "model",
+          "parts": [
+               {
+                    "text": "Sua primeira pergunta foi \"olá\".\n"
+               }
+          ]
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "e a segunda?"
+               }
+          ]
+     },
+     {
+          "parts": [
+               {
+                    "text": "Sua segunda pergunta também foi \"olá\".\n"
+               }
+          ],
+          "role": "model"
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "e a segunda?"
+               }
+          ]
+     },
+     {
+          "role": "model",
+          "parts": [
+               {
+                    "text": "Sua segunda pergunta também foi \"olá\".\n"
+               }
+          ]
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "e a terceira?"
+               }
+          ]
+     },
+     {
+          "parts": [
+               {
+                    "text": "Sua terceira pergunta foi: \"você sabe me dizer quem veio antes: o ovo ou a galinha?\"\n"
+               }
+          ],
+          "role": "model"
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "e a terceira?"
+               }
+          ]
+     },
+     {
+          "role": "model",
+          "parts": [
+               {
+                    "text": "Sua terceira pergunta foi: \"você sabe me dizer quem veio antes: o ovo ou a galinha?\"\n"
+               }
+          ]
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "muito bem, muito bem mesmo, parabens viu"
+               }
+          ]
+     },
+     {
+          "parts": [
+               {
+                    "text": "Obrigado! Fico feliz em poder ajudar.  Há mais alguma coisa em que eu possa te ajudar?\n"
+               }
+          ],
+          "role": "model"
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "muito bem, muito bem mesmo, parabens viu"
+               }
+          ]
+     },
+     {
+          "role": "model",
+          "parts": [
+               {
+                    "text": "Obrigado! Fico feliz em poder ajudar.  Há mais alguma coisa em que eu possa te ajudar?\n"
+               }
+          ]
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "que horas são?"
+               }
+          ]
+     },
+     {
+          "parts": [
+               {
+                    "text": "Não tenho acesso a informações em tempo real, incluindo a hora.  Você pode verificar a hora em um relógio ou no seu computador/celular.\n"
+               }
+          ],
+          "role": "model"
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "que horas são?"
+               }
+          ]
+     },
+     {
+          "role": "model",
+          "parts": [
+               {
+                    "text": "Não tenho acesso a informações em tempo real, incluindo a hora.  Você pode verificar a hora em um relógio ou no seu computador/celular.\n"
+               }
+          ]
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "kkk"
+               }
+          ]
+     },
+     {
+          "parts": [
+               {
+                    "text": "😄\n"
+               }
+          ],
+          "role": "model"
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "kkk"
+               }
+          ]
+     },
+     {
+          "role": "model",
+          "parts": [
+               {
+                    "text": "😄\n"
+               }
+          ]
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"
+               }
+          ]
+     },
+     {
+          "parts": [
+               {
+                    "text": "😄😄😄😄😄  Muitos risos!  Em que você está rindo?\n"
+               }
+          ],
+          "role": "model"
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk"
+               }
+          ]
+     },
+     {
+          "role": "model",
+          "parts": [
+               {
+                    "text": "😄😄😄😄😄  Muitos risos!  Em que você está rindo?\n"
+               }
+          ]
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "muito legal"
+               }
+          ]
+     },
+     {
+          "parts": [
+               {
+                    "text": "Que bom que você gostou!  Há algo mais em que eu possa te ajudar?\n"
+               }
+          ],
+          "role": "model"
+     },
+     {
+          "role": "user",
+          "parts": [
+               {
+                    "text": "muito legal"
+               }
+          ]
+     },
+     {
+          "role": "model",
+          "parts": [
+               {
+                    "text": "Que bom que você gostou!  Há algo mais em que eu possa te ajudar?\n"
+               }
+          ]
+     }
+]
